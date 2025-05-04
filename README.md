@@ -22,3 +22,5 @@ This repository contains my basic Artificial Intelligence (AI) homework assignme
 - Jupyter Notebook
 - NumPy, pandas, matplotlib, seaborn
 - scikit-learn
+# Links 
+- https://colab.research.google.com/drive/1Jgwh2dO_6J1ocKn4ne6FtoY9IkyFsoYI?usp=sharing
