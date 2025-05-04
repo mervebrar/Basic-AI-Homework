@@ -4,7 +4,7 @@ This repository contains my basic Artificial Intelligence (AI) homework assignme
 
 ## 📁 Contents
 
-- `notebooks/`: Jupyter notebooks demonstrating basic AI techniques.
+- `notebooks/`: Google Colab demonstrating basic AI techniques.
 - `datasets/`: Small example datasets used in the assignments.
 - `models/`: Saved models or output files (if applicable).
 - `results/`: Visual outputs or metrics from the homework tasks.
